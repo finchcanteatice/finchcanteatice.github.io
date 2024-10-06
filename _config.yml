@@ -1,5 +1,1 @@
-theme: jekyll-theme-minimal  
-
-git add _config.yml
-git commit -m "Add GitHub Pages theme"
-git push origin main
+theme: jekyll-theme-minimal 
